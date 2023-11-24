@@ -1,0 +1,50 @@
+.nav-color{
+    background-color: $white;
+}
+
+.navegador {
+    ul {
+        li{
+            a {
+                color: $violeta
+            }
+        }
+    }
+
+}
+.logo{
+    background-image: url(../img/Alert-game-.svg);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 90px;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+        padding: 20px;   
+    }
+.welcome{
+    font-size: 80px;
+    font-family:'Bakbak One';
+    padding: 20px;
+    color:$violeta;
+}
+.start a{
+                font-family:'Bakbak One';
+        }
+
+.btn-color{
+    background-color:$violeta;
+    color:$white;
+    &:hover{
+        background-color:$yellow;
+        color:$white;
+    }
+}
+ 
+
+

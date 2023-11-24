@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap");
+.nav-color {
+  background-color: #ffffff;
+}
+
+.navegador ul li a {
+  color: #8487EF;
+}
+
+.logo {
+  background-image: url(../img/Alert-game-.svg);
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 90px;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  padding: 20px;
+}
+
+.welcome {
+  font-size: 80px;
+  font-family: "Bakbak One";
+  padding: 20px;
+  color: #8487EF;
+}
+
+.start a {
+  font-family: "Bakbak One";
+}
+
+.btn-color {
+  background-color: #8487EF;
+  color: #ffffff;
+}
+.btn-color:hover {
+  background-color: #EFEC84;
+  color: #ffffff;
+}
+
+.fondo {
+  background-color: #ffffff;
+}
+
+.notis {
+  padding: 50px;
+}
+.notis h2 {
+  padding: 50px;
+  text-align: center;
+  font-family: "Bakbak One";
+  font-size: 80px;
+  color: #8487EF;
+}
+.notis h5 {
+  text-align: center;
+  font-family: "Bakbak One";
+  font-size: 30px;
+  color: #ffffff;
+}
+.notis p {
+  text-align: center;
+  font-family: "Bakbak One";
+  font-size: 16px;
+  color: white;
+}
+
+.cajas {
+  background-color: #EC84EF;
+}
+
+.show h5 {
+  font-size: 40px;
+  font-family: "Bakbak One";
+}
+
+.show p {
+  font-size: 20px;
+  font-family: "Bakbak One";
+}
+
+.end {
+  background: #8487EF;
+  padding: 40px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.end ul {
+  list-style: none;
+  font-family: "Bakbak One";
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.end ul li {
+  margin: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
